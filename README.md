@@ -1,24 +1,9 @@
-# fundamentos
+# Fundamentos de Vue (Curso de Udemy)
+
+Proyecto del curso de Vue dictado por Fernando Herrera. Manejando Option API de VueJS
 
 ## Project setup
+
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
